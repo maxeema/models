@@ -1,0 +1,7 @@
+https://github.com/cmusphinx/g2p-seq2seq/blob/master/README.md
+
+Dutch model trained on "voxforge_nl_sphinx.dic"
+
+# g2p-seq2seq --train sphinx/nl/voxforge_nl_sphinx.dic --model_dir sphinx/nl-model --size 256 --num_layers 3 --filter_size 512 --cleanup --max_epochs 1
+
+
